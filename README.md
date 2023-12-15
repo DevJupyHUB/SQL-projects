@@ -7,7 +7,7 @@
 To compare the oil consumption and GDP of OPEC and non-OPEC countries per region and subregion level using MySQL.
 
 **Data:**
-Both the oil price and country code datasets are from [Kaggle]
+Both the oil price and country code datasets are from [Kaggle](https://www.kaggle.com/datasets/zusmani/petrolgas-prices-worldwide)
 
 ![story1](https://github.com/DevJupyHUB/SQL-projects/assets/125738232/13fe3f57-25f4-463c-b19e-06386d755010)
 
